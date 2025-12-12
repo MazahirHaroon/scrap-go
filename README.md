@@ -1,4 +1,4 @@
-# Waste & Scrap Collection Mobile Application
+# ScrapGo: Waste & Scrap Collection Mobile Application
 
 Digitizing waste & scrap pickup management for commercial establishments across Ernakulam.
 
